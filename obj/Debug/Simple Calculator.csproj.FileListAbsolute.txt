@@ -1,0 +1,7 @@
+C:\Users\wdkin\source\repos\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+C:\Users\wdkin\source\repos\Simple Calculator\bin\Debug\Simple Calculator.exe
+C:\Users\wdkin\source\repos\Simple Calculator\bin\Debug\Simple Calculator.pdb
+C:\Users\wdkin\source\repos\Simple Calculator\obj\Debug\Simple Calculator.csprojAssemblyReference.cache
+C:\Users\wdkin\source\repos\Simple Calculator\obj\Debug\Simple Calculator.csproj.CoreCompileInputs.cache
+C:\Users\wdkin\source\repos\Simple Calculator\obj\Debug\Simple Calculator.exe
+C:\Users\wdkin\source\repos\Simple Calculator\obj\Debug\Simple Calculator.pdb
